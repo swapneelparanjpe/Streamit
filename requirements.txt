@@ -5,3 +5,4 @@ pymongo
 dj-database-url
 psycopg2
 gunicorn
+whitenoise
